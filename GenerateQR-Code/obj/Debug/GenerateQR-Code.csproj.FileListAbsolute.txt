@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\bin\Debug\GenerateQR-Code.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\bin\Debug\GenerateQR-Code.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\bin\Debug\Zen.Barcode.Core.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\obj\Debug\GenerateQR-Code.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\obj\Debug\GenerateQR_Code.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\obj\Debug\GenerateQR_Code.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\obj\Debug\GenerateQR-Code.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\obj\Debug\GenerateQR-Code.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\GenerateQR-Code\GenerateQR-Code\obj\Debug\GenerateQR-Code.pdb
